@@ -1,2 +1,1 @@
-# npmproject
-npm project
+Beauty parlour
